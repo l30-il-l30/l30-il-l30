@@ -37,3 +37,14 @@ I'm passionate about cybersecurity, programming, and problem-solving. You can ch
 - 📷 **Instagram:** [@l3o_v3ntur4](https://www.instagram.com/l3o_v3ntur4/)
 - 💼 **LinkedIn:** [Leo Ventura](https://www.linkedin.com/in/leo-ventura-9505a4286/)
 - 🚩 **CTFTime:** [L30_IL_L30](https://ctftime.org/user/167775)
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://ctftime.org/favicon.png" width="52" height="40" alt="CTFTime logo"  />
+</div>
+
+###
